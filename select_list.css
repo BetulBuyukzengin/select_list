@@ -1,0 +1,28 @@
+.body{
+    width: 100%;
+}
+.width_100{
+    width: 100%;
+}
+.form{
+    display: flex;
+    width: 46%;
+}
+.select{
+    display: flex;
+    background-color: white;
+    border:solid 1px;
+    padding: 3% 0 3% 0;
+    border-color:#667085;
+    justify-content: center;
+}
+.text{
+   
+    color: #667085;
+}
+.fnt_size14{
+    font-size:14px 
+}
+#text{
+     color: #667085; ;
+}
